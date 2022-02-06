@@ -23,5 +23,5 @@ Computer Scientist
 
 - <img src="/images/orcid.logo.icon.svg" alt="ORCID page" style="height:24px;" title="ORCID page"/>&nbsp;[ORCID](https://orcid.org/0000-0002-9622-4142)<br>
 - <img src="https://dblp.uni-trier.de/img/logo.320x120.png" alt="DBLP page" style="height:24px;" title="DBLP page"/>&nbsp;[DBLP](https://dblp.uni-trier.de/pid/205/3609.html)
-- <img src="https://manual.uib.no/files/2018/10/emblem.png" alt="DBLP page" style="height:24px;" title="DBLP page"/>&nbsp;[Page @ UiB](https://www.uib.no/en/persons/Ricardo.Guimaraes)
+- <img src="https://manual.uib.no/files/2018/10/emblem.png" alt="UiB page" style="height:24px;" title="UiB page"/>&nbsp;[Page @ UiB](https://www.uib.no/en/persons/Ricardo.Guimaraes)
 

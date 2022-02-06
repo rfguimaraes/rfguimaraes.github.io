@@ -30,7 +30,7 @@ sidebar_link: true
 **Visiting Academic - University of Manchester** 
 (04/2018 - 12/2018)
 
-**System Administrator at Rede Linux - Univerisity of São Paulo**
+**System Administrator at Rede Linux - University of São Paulo**
 (03/2013 - 02/2015)
 
 ## Publications and Papers
