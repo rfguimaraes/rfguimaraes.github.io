@@ -1,19 +1,8 @@
 ---
 layout: page
-title: About
+title: CV
 sidebar_link: true
 ---
-
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
-
-# CV
-
 ## Education
 
 **PhD in Computer Science - University of São Paulo**
@@ -64,7 +53,7 @@ matter.
 
 ## Teaching
 
-- ** Selected Topics in Artificial Intelligence (INF 367)** 
+- **Selected Topics in Artificial Intelligence (INF 367)** 
     - Lecturer
     - Autumn, 2021
     - Topic: Ontologies and Knowledge Graphs 
