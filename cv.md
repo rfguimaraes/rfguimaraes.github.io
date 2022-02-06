@@ -19,6 +19,7 @@ sidebar_link: true
 - Bachelor project: Extensions to the AML Ontology Aligner
 - Supervisor: Prof. Dr. Renata Wassermann
 
+----------------------------------------------------------------------
 ## Experience
 
 **Postdoctoral Research Fellow - University of Bergen**
@@ -33,6 +34,7 @@ sidebar_link: true
 **System Administrator at Rede Linux - University of São Paulo**
 (03/2013 - 02/2015)
 
+----------------------------------------------------------------------
 ## Publications and Papers
 
 - 2021:
@@ -51,6 +53,7 @@ sidebar_link: true
 - 2017:
     - Ricardo Guimarães, Renata Wassermann: Local Change in Ontologies with Atomic Decomposition. JOWO 2017
 
+----------------------------------------------------------------------
 ## Teaching
 
 - **Selected Topics in Artificial Intelligence (INF 367)** 
