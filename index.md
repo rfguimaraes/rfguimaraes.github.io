@@ -3,6 +3,8 @@ layout: page
 title: Home
 ---
 
+<meta name="google-site-verification" content="QTnoOHKV7mSTNGQdGeGlTZS6ijGuda5_6spmWom5byo" />
+
 Computer Scientist
 
 ## Research Interests
