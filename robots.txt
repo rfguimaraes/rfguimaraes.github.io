@@ -1,0 +1,6 @@
+# robotstxt.org/
+
+User-agent: *
+Disalow: /contact.html
+
+Sitemap: https://rfguimaraes.github.io/sitemap.xml
