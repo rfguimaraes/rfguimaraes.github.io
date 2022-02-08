@@ -1,3 +1,6 @@
 # robotstxt.org/
 
 User-agent: *
+Disalow: /contact.html
+
+Sitemap: https://searchfacts.com/sitemap.xml
