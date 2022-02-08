@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Home
+sitemap:
+  priority: 0.9
+  changefreq: 'yearly'
+  lastmod: '2022-02-08'
 ---
 
 Computer Scientist
