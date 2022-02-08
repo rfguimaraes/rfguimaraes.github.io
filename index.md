@@ -7,7 +7,11 @@ sitemap:
   lastmod: '2022-02-08'
 ---
 
+_aka Ricardo F. Guimarães, Ricardo Ferreira Guimarães_
+
 Computer Scientist
+
+Postdoctoral Research Fellow at the University of Bergen
 
 ## Research Interests
 
