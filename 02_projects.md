@@ -2,6 +2,10 @@
 layout: page
 title: Projects
 sidebar_link: true
+sitemap:
+  priority: 0.5
+  changefreq: 'yearly'
+  lastmod: '2022-02-08'
 ---
 
 <details><summary><b>Computing MVF Efficiently</b></summary>
