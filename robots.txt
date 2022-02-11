@@ -1,6 +1,6 @@
 # robotstxt.org/
 
 User-agent: *
-Disalow: /09_contact.html
+Disallow: /09_contact.html
 
 Sitemap: https://rfguimaraes.github.io/sitemap.xml
