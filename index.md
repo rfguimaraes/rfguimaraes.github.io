@@ -24,7 +24,7 @@ Postdoctoral Research Fellow at the University of Bergen
 
 - Other Topics in Computer Science:
     - Representation Learning
-    - Combination of Symbolic and Statistical AI
+    - Combination of Symbolic and Subsymbolic AI
     - Explainable AI
 
 ## External Links
