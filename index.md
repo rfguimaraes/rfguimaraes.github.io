@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+description: Personal Webpage the of PhD in Computer Science Ricardo Guimarães, researcher in Knowledge Representation
 sitemap:
   priority: 0.9
   changefreq: 'yearly'
