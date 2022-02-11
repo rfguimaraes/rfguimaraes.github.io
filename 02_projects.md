@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 sidebar_link: true
+description: Ricardo Guimarães projects in Knowledge Representation, Description Logics, Representation Learning and related topics
 sitemap:
   priority: 0.5
   changefreq: 'yearly'
