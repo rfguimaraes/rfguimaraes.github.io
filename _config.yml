@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Ricardo Guimarães
-tagline:          'Personal Website'
-description:      'Personal website of Ricardo F. Guimarães, PhD in Computer Science, researcher on Knowledge Representation'
+tagline:          'Computer Scientist working in Knowledge Representation, Description Logics, Belief Change and Representation Learning'
+description:      'Computer Scientist'
 url:              https://rfguimaraes.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"

@@ -9,7 +9,13 @@ $sidebar-sticky: false;
 
 @import "hydeout";
 
+@font-face{ 
+	font-family: 'LiberationSerif';
+	src: url('../fonts/LiberationSerif-Regular-webfont.woff') format('woff'),
+}
+
 #sidebar .site-title {
+  font-family: 'LiberationSerif';
   font-size: 3.0rem;
 }
 
