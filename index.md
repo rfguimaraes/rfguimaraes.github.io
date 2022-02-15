@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-description: Personal Webpage the of PhD in Computer Science Ricardo Guimarães, researcher in Knowledge Representation
+description: Personal website the of PhD in Computer Science Ricardo Guimarães, researcher in Knowledge Representation, Description Logics, Belief Change and Representation Learning
 sitemap:
   priority: 0.9
   changefreq: 'yearly'

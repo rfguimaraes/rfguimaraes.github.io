@@ -7,4 +7,4 @@ sitemap:
   changefreq: 'yearly'
   lastmod: '2022-02-08'
 ---
-<script type="text/javascript" src="https://form.jotform.com/jsform/220371576082353"></script>
+My email is: ```<first name> dot <last name> at "uib" dot "no"```
