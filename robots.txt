@@ -3,6 +3,5 @@
 User-agent: *
 Allow: /
 Allow: /sitemap.xml
-Disallow: /09_contact.html
 
 Sitemap: https://rfguimaraes.github.io/sitemap.xml
