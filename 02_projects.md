@@ -6,7 +6,7 @@ description: Ricardo Guimarães' projects
 sitemap:
   priority: 0.5
   changefreq: 'yearly'
-  lastmod: '2022-02-08'
+  lastmod: '2023-03-01'
 ---
 
 <details><summary><b>Computing MVF Efficiently</b></summary>
