@@ -5,7 +5,7 @@ description: Ricardo Guimarães, Computer Scientist (Researcher)
 sitemap:
   priority: 0.9
   changefreq: 'yearly'
-  lastmod: '2023-01-28'
+  lastmod: '2023-02-23'
 ---
 
 _aka Ricardo F. Guimarães, Ricardo Ferreira Guimarães_
@@ -24,9 +24,16 @@ Postdoctoral Research Fellow at the University of Bergen
     - Ontology Learning
 
 - Other Topics in Computer Science:
-    - Representation Learning
     - Combination of Symbolic and Subsymbolic AI
     - Explainable AI
+    - Graph Algorithms
+
+## Other Interests
+    - Board Games
+    - Hiking
+    - Natural Sciences
+    - Psychology and Sociology
+    - Fantasy and Science-Fiction
 
 ## External Links
 

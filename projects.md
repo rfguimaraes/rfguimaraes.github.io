@@ -7,6 +7,7 @@ sitemap:
   priority: 0.5
   changefreq: 'yearly'
   lastmod: '2023-03-01'
+sidebar_sort_order: 2
 ---
 
 <details><summary><b>Computing MVF Efficiently</b></summary>

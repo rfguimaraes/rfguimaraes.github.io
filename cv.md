@@ -7,6 +7,7 @@ sitemap:
   priority: 0.7
   changefreq: 'monthly'
   lastmod: '2023-01-27'
+sidebar_sort_order: 1
 ---
 ## Education
 
