@@ -34,3 +34,9 @@ sidebar_blog_link:  '/posts/index.html'   # By default, your home page is your b
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+plugins:
+  - jekyll-last-modified-at
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%Y-%m-%dT%H:%M:%S.%fZ'
