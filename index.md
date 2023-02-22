@@ -24,9 +24,15 @@ Postdoctoral Research Fellow at the University of Bergen
     - Ontology Learning
 
 - Other Topics in Computer Science:
-    - Representation Learning
     - Combination of Symbolic and Subsymbolic AI
     - Explainable AI
+
+## Other Interests
+    - Board Games
+    - Hiking
+    - Natural Sciences
+    - Psychology and Sociology
+    - Fantasy and Science-Fiction
 
 ## External Links
 
