@@ -26,6 +26,7 @@ Postdoctoral Research Fellow at the University of Bergen
 - Other Topics in Computer Science:
     - Combination of Symbolic and Subsymbolic AI
     - Explainable AI
+    - Graph Algorithms
 
 ## Other Interests
     - Board Games
