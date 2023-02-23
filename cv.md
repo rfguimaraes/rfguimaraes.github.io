@@ -31,14 +31,28 @@ sidebar_sort_order: 1
 **Postdoctoral Research Fellow - University of Bergen**
 (12/2020 - Present)
 
+- Published results on high-quality venues on Artificial Intelligence.
+- Communicated results on international workshops.
+- Planned, created material for, and delivered two courses.
+- Co-supervised 2 master students and 2 PhD students.
+- Co-organised a research school on Artificial Intelligence.
+
 **Research Assistant - Free University of Bozen-Bolzano**
 (03/2020 - 11/2020)
+
+- Collaborated with international colleagues and presented research results in well-known AI and KR venues.
 
 **Visiting Academic - University of Manchester** 
 (04/2018 - 12/2018)
 
+- Published results of the collaboration in an international workshop on Ontology Modularity.
+- [Funded](https://bv.fapesp.br/en/bolsas/176114/improving-efficiency-of-belief-base-change-in-description-logics-with-modularity-in-ontologies/) by São Paulo Research Agency (FAPESP).
+
 **System Administrator at [Rede Linux](https://www.linux.ime.usp.br/?about#9a-gera%C3%A7%C3%A3o) - University of São Paulo**
 (03/2013 - 02/2015)
+
+- Maintained and developed the computer network that supports the institute’s undergraduate students.
+- Automated tasks and investigate emerging technologies relevant for server management.
 
 ----------------------------------------------------------------------
 ## Publications and Papers
