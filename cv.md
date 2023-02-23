@@ -122,7 +122,7 @@ sidebar_sort_order: 1
 - **CAPES Scholarship**: 49800.00 BRL (03/2015 - 07/2017)
 
 ----------------------------------------------------------------------
-## Code:
+## Code
 
 - [GitLab@UiB](https://git.app.uib.no/Ricardo.Guimaraes)
 - [GitLab.com](https://gitlab.com/rfguimaraes)
@@ -130,7 +130,7 @@ sidebar_sort_order: 1
 
 
 ----------------------------------------------------------------------
-## Invited Talks:
+## Invited Talks
 
 - Belief Change with Models as Input: Adapting Expansion and Contraction. [IRL 2022](https://web.archive.org/web/20221205091252/https://irl.w.uib.no/)
 - Learning and Reasoning with Knowledge Graphs and Ontologies. [CEDAS Networking Event 2022](https://web.archive.org/web/20221022003238/http://www.uib.no/en/cedas/154942/cedas-networking-event-2022#)

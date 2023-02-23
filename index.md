@@ -5,7 +5,7 @@ description: Ricardo Guimarães, Computer Scientist (Researcher)
 sitemap:
   priority: 0.9
   changefreq: 'yearly'
-  lastmod: '2023-02-23'
+  lastmod: '2023-02-23T09:30:42Z'
 ---
 
 _aka Ricardo F. Guimarães, Ricardo Ferreira Guimarães_
@@ -29,11 +29,12 @@ Postdoctoral Research Fellow at the University of Bergen
     - Graph Algorithms
 
 ## Other Interests
-    - Board Games
-    - Hiking
-    - Natural Sciences
-    - Psychology and Sociology
-    - Fantasy and Science-Fiction
+
+- Board Games
+- Hiking
+- Natural Sciences
+- Psychology and Sociology
+- Fantasy and Science-Fiction
 
 ## External Links
 
@@ -41,3 +42,4 @@ Postdoctoral Research Fellow at the University of Bergen
 - [ORCID](https://orcid.org/0000-0002-9622-4142)
 - [LinkedIn](https://www.linkedin.com/in/rfguimaraes/)
 - [Page @ UiB](https://www.uib.no/en/persons/Ricardo.Guimaraes)
+- [Goodreads Profile](https://www.goodreads.com/rfguimaraes)
