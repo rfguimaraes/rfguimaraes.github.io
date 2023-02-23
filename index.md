@@ -29,11 +29,12 @@ Postdoctoral Research Fellow at the University of Bergen
     - Graph Algorithms
 
 ## Other Interests
-    - Board Games
-    - Hiking
-    - Natural Sciences
-    - Psychology and Sociology
-    - Fantasy and Science-Fiction
+
+- Board Games
+- Hiking
+- Natural Sciences
+- Psychology and Sociology
+- Fantasy and Science-Fiction
 
 ## External Links
 
