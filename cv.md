@@ -9,6 +9,10 @@ sitemap:
   lastmod: '2023-01-27'
 sidebar_sort_order: 1
 ---
+
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 ## Education
 
 **PhD in Computer Science - University of São Paulo**
