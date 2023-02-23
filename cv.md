@@ -9,6 +9,40 @@ sitemap:
   lastmod: '2023-01-27'
 sidebar_sort_order: 1
 ---
+
+* Do not remove this line (it will not be displayed)
+{:toc}
+
+----------------------------------------------------------------------
+## Experience
+
+**Postdoctoral Research Fellow - University of Bergen**
+(12/2020 - Present)
+
+- Published results on high-quality venues on Artificial Intelligence.
+- Communicated results on international workshops.
+- Planned, created material for, and delivered two courses.
+- Co-supervised 2 master students and 2 PhD students.
+- Co-organised a research school on Artificial Intelligence.
+
+**Research Assistant - Free University of Bozen-Bolzano**
+(03/2020 - 11/2020)
+
+- Collaborated with international colleagues and presented research results in well-known AI and KR venues.
+
+**Visiting Academic - University of Manchester** 
+(04/2018 - 12/2018)
+
+- Published results of the collaboration in an international workshop on Ontology Modularity.
+- [Funded](https://bv.fapesp.br/en/bolsas/176114/improving-efficiency-of-belief-base-change-in-description-logics-with-modularity-in-ontologies/) by São Paulo Research Agency (FAPESP).
+
+**System Administrator at [Rede Linux](https://www.linux.ime.usp.br/?about#9a-gera%C3%A7%C3%A3o) - University of São Paulo**
+(03/2013 - 02/2015)
+
+- Maintained and developed the computer network that supports the institute’s undergraduate students.
+- Automated tasks and investigate emerging technologies relevant for server management.
+
+----------------------------------------------------------------------
 ## Education
 
 **PhD in Computer Science - University of São Paulo**
@@ -24,21 +58,6 @@ sidebar_sort_order: 1
 (02/2011 - 12/2014)
 - Bachelor project: Extensions to the AML Ontology Aligner
 - Supervisor: Prof. Dr. Renata Wassermann
-
-----------------------------------------------------------------------
-## Experience
-
-**Postdoctoral Research Fellow - University of Bergen**
-(12/2020 - Present)
-
-**Research Assistant - Free University of Bozen-Bolzano**
-(03/2020 - 11/2020)
-
-**Visiting Academic - University of Manchester** 
-(04/2018 - 12/2018)
-
-**System Administrator at [Rede Linux](https://www.linux.ime.usp.br/?about#9a-gera%C3%A7%C3%A3o) - University of São Paulo**
-(03/2013 - 02/2015)
 
 ----------------------------------------------------------------------
 ## Publications and Papers
@@ -122,6 +141,16 @@ sidebar_sort_order: 1
 - **CAPES Scholarship**: 49800.00 BRL (03/2015 - 07/2017)
 
 ----------------------------------------------------------------------
+## Skills
+
+- Hard Skills: Python, Java, C, SQL, GNU/Linux, Git, LATEX, Knowledge Graphs, Ontologies, OWL, RDF, SPARQL,
+Protégé, Data Science ([IBM Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V45HAAHQS4AE)), Extreme Programming (Agile).
+
+- Soft Skills: Problem-solving, Adaptability, Time Management, Scientific Method/Research, Academic Writing
+
+- Languages: English (proficient), Norwegian (basic), Portuguese (native)
+
+----------------------------------------------------------------------
 ## Code
 
 - [GitLab@UiB](https://git.app.uib.no/Ricardo.Guimaraes)
@@ -135,4 +164,5 @@ sidebar_sort_order: 1
 - Belief Change with Models as Input: Adapting Expansion and Contraction. [IRL 2022](https://web.archive.org/web/20221205091252/https://irl.w.uib.no/)
 - Learning and Reasoning with Knowledge Graphs and Ontologies. [CEDAS Networking Event 2022](https://web.archive.org/web/20221022003238/http://www.uib.no/en/cedas/154942/cedas-networking-event-2022#)
 
+----------------------------------------------------------------------
 [Download PDF](cv.pdf)
