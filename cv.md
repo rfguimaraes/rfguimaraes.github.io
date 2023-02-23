@@ -6,7 +6,7 @@ description: Ricardo Guimarães' CV
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
-  lastmod: '2023-01-27'
+  lastmod: '2023-02-23'
 sidebar_sort_order: 1
 ---
 
