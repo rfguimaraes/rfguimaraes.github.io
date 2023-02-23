@@ -13,22 +13,6 @@ sidebar_sort_order: 1
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## Education
-
-**PhD in Computer Science - University of São Paulo**
-(03/2015 - 01/2020)
-- Thesis: [Modularity in Belief Change of Description Logic Bases](https://www.teses.usp.br/teses/disponiveis/45/45134/tde-19032020-043422/publico/thesis.pdf)
-- Supervisor: Prof. Dr. Renata Wassermann
-- Scholarship funding:
-    - CAPES: 03/2015 - 07/2017
-    - FAPESP: 08/2017 - 01/2020
-
-
-**BSc in Computer Science - University of São Paulo**
-(02/2011 - 12/2014)
-- Bachelor project: Extensions to the AML Ontology Aligner
-- Supervisor: Prof. Dr. Renata Wassermann
-
 ----------------------------------------------------------------------
 ## Experience
 
@@ -57,6 +41,23 @@ sidebar_sort_order: 1
 
 - Maintained and developed the computer network that supports the institute’s undergraduate students.
 - Automated tasks and investigate emerging technologies relevant for server management.
+
+----------------------------------------------------------------------
+## Education
+
+**PhD in Computer Science - University of São Paulo**
+(03/2015 - 01/2020)
+- Thesis: [Modularity in Belief Change of Description Logic Bases](https://www.teses.usp.br/teses/disponiveis/45/45134/tde-19032020-043422/publico/thesis.pdf)
+- Supervisor: Prof. Dr. Renata Wassermann
+- Scholarship funding:
+    - CAPES: 03/2015 - 07/2017
+    - FAPESP: 08/2017 - 01/2020
+
+
+**BSc in Computer Science - University of São Paulo**
+(02/2011 - 12/2014)
+- Bachelor project: Extensions to the AML Ontology Aligner
+- Supervisor: Prof. Dr. Renata Wassermann
 
 ----------------------------------------------------------------------
 ## Publications and Papers
@@ -140,6 +141,16 @@ sidebar_sort_order: 1
 - **CAPES Scholarship**: 49800.00 BRL (03/2015 - 07/2017)
 
 ----------------------------------------------------------------------
+## Skills
+
+- Hard Skills: Python, Java, C, SQL, GNU/Linux, Git, LATEX, Knowledge Graphs, Ontologies, OWL, RDF, SPARQL,
+Protégé, Data Science ([IBM Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V45HAAHQS4AE)), Extreme Programming (Agile).
+
+- Soft Skills: Problem-solving, Adaptability, Time Management, Scientific Method/Research, Academic Writing
+
+- Languages: English (proficient), Norwegian (basic), Portuguese (native)
+
+----------------------------------------------------------------------
 ## Code
 
 - [GitLab@UiB](https://git.app.uib.no/Ricardo.Guimaraes)
@@ -153,4 +164,5 @@ sidebar_sort_order: 1
 - Belief Change with Models as Input: Adapting Expansion and Contraction. [IRL 2022](https://web.archive.org/web/20221205091252/https://irl.w.uib.no/)
 - Learning and Reasoning with Knowledge Graphs and Ontologies. [CEDAS Networking Event 2022](https://web.archive.org/web/20221022003238/http://www.uib.no/en/cedas/154942/cedas-networking-event-2022#)
 
+----------------------------------------------------------------------
 [Download PDF](cv.pdf)
