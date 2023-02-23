@@ -23,10 +23,15 @@ Postdoctoral Research Fellow at the University of Bergen
     - Ontology Modularity
     - Ontology Learning
 
-- Other Topics in Computer Science:
+- Other Topics in Artificial Intelligence:
     - Combination of Symbolic and Subsymbolic AI
+    - Representation Learning
     - Explainable AI
+
+- Other Topics in Computer Science:
     - Graph Algorithms
+    - Computability
+    - Computational Complexity
 
 ## Other Interests
 
