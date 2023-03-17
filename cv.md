@@ -6,7 +6,7 @@ description: Ricardo Guimarães' CV
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
-  lastmod: '2023-02-23'
+  lastmod: '2023-03-17'
 sidebar_sort_order: 1
 ---
 
@@ -119,19 +119,23 @@ sidebar_sort_order: 1
 
 | Type   | Ongoing | Completed | As Main Supervisor |
 |--------|---------|-----------|--------------------|
-| PhD    |       2 |         0 |                  0 |
+| PhD    |       1 |         1 |                  0 |
 | Master |       1 |         1 |                  0 |
 
 ----------------------------------------------------------------------
 ## Other Notable Roles
-
+- [Reasoning Web 2023 (research school)](https://2023.declarativeai.net/events/reasoning-web): PC member
+- [KR 2023 (conference)](https://kr.org/KR2023/): PC member
 - [DL 2023 (workshop)](https://dl2023.w.uib.no/): PC member, Publicity Co-Chair
 - [AAAI 2023 (conference)](https://aaai.org/Conferences/AAAI-23/): PC member
 - [KR4HI 2022 (workshop)](https://sites.google.com/view/kr4hi/home): PC member
 - [AIB 2022 (research school)](https://researchschool.w.uib.no/): organiser / lecturer
 - [DL 2022 (workshop)](http://dl.kr.org/dl2022): PC member
 - [KR 2022 (conference)](https://kr2022.cs.tu-dortmund.de/): PC member
-
+- Journal of Automated Reasoning: Reviewer
+- Neural Networks Journal: Reviewer
+- Information and Computation Journal: Reviewer
+- Artificial Intelligence Journal: Reviewer
 ----------------------------------------------------------------------
 ## Grants
 
@@ -143,7 +147,7 @@ sidebar_sort_order: 1
 ----------------------------------------------------------------------
 ## Skills
 
-- Hard Skills: Python, Java, C, SQL, GNU/Linux, Git, LATEX, Knowledge Graphs, Ontologies, OWL, RDF, SPARQL,
+- Hard Skills: Python, Java, C, SQL, GNU/Linux, Git, LaTeX, Knowledge Graphs, Ontologies, OWL, RDF, SPARQL,
 Protégé, Data Science ([IBM Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V45HAAHQS4AE)), Extreme Programming (Agile).
 
 - Soft Skills: Problem-solving, Adaptability, Time Management, Scientific Method/Research, Academic Writing
@@ -153,8 +157,8 @@ Protégé, Data Science ([IBM Specialization](https://www.coursera.org/account/a
 ----------------------------------------------------------------------
 ## Code
 
-- [GitLab@UiB](https://git.app.uib.no/Ricardo.Guimaraes)
 - [GitLab.com](https://gitlab.com/rfguimaraes)
+- [GitLab@UiB](https://git.app.uib.no/Ricardo.Guimaraes)
 - [Github](https://github.com/rfguimaraes)
 
 

@@ -6,7 +6,7 @@ description: Ricardo Guimarães' projects
 sitemap:
   priority: 0.5
   changefreq: 'yearly'
-  lastmod: '2023-03-01'
+  lastmod: '2023-03-17'
 sidebar_sort_order: 2
 ---
 
@@ -22,6 +22,16 @@ In our novel approach to learning ontologies from knowledge graphs, we need to c
 <p>
 
 While Knowledge Graphs are becoming increasing popular, one persistent issue concerns the quality of data. Sometimes not only the information described is incomplete, but it is also incorrect. One can rely on ontological approaches or machine learning techniques using knowledge graph embeddings to fix incorrect information in such graphs. This project's primary research goal is to investigate the combination of methods in the mentioned approaches. Embeddings that can relate to the taxonomical rules in the Knowledge Graphs are particularly promising.
+
+</p>
+</details>
+
+<details><summary><b>OWL2DL-CCC: A Corpus Generator for Ontology Repair</b></summary>
+<p>
+
+While there are already well-maintained corpora and methodologies to compare standard reasoners, there is still no standardise methodology or dataset
+tailored for tasks such as Ontology Repair, Defeasible Reasoning, Inconsistent Tolerant Reasoner, and other non-standard applications.
+The [OWL 2 DL Change Case Creator (OWL2DL-CCC)](https://gitlab.com/rfguimaraes/owl2dl-ccc) provides a convenient and flexible way to generate a corpus of ontologies for these tasks using a set of ontologies, and set of specifications that indicate how these ontologies should be modified. It produces as output a set of files that can be easily parsed and employed when testing and benchmarking different tools aimed at OWL 2 DL ontologies.
 
 </p>
 </details>
