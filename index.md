@@ -5,7 +5,7 @@ description: Ricardo Guimarães, Computer Scientist (Researcher)
 sitemap:
   priority: 0.9
   changefreq: 'yearly'
-  lastmod: '2023-02-23T09:30:42Z'
+  lastmod: '2023-03-17' 
 ---
 
 _aka Ricardo F. Guimarães, Ricardo Ferreira Guimarães_
@@ -40,6 +40,7 @@ Postdoctoral Research Fellow at the University of Bergen
 - Natural Sciences
 - Psychology and Sociology
 - Fantasy and Science-Fiction
+- Free and Open-Source Software
 
 ## External Links
 
