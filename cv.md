@@ -6,7 +6,7 @@ description: Ricardo Guimarães' CV
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
-  lastmod: '2023-03-17'
+  lastmod: '2023-04-26'
 sidebar_sort_order: 1
 ---
 
@@ -63,6 +63,7 @@ sidebar_sort_order: 1
 ## Publications and Papers
 
 - 2023:
+    - Ricardo Guimarães, Ana Ozaki, Cosimo Persia, Baris Sertkaya: [Mining EL Bases with Adaptable Role Depth](https://doi.org/10.1613/jair.1.13777). JAIR 2023
     - Ricardo Guimarães, Ana Ozaki, Jandson S. Ribeiro: Finite Based Contraction and Expansion via Models. AAAI 2023
     - Cosimo Persia, Ricardo Guimarães:[RIDDLE: Rule Induction with Deep Learning](https://septentrio.uit.no/index.php/nldl/article/view/6801). NLDL 2023
 
