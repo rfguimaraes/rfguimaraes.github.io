@@ -1,37 +1,23 @@
 ---
 layout: page
 title: Home
-description: Ricardo Guimarães, Computer Scientist (Researcher)
+description: Ricardo Guimarães
 sitemap:
   priority: 0.9
   changefreq: 'yearly'
-  lastmod: '2023-03-17' 
+  lastmod: '2023-08-19' 
 ---
 
 _aka Ricardo F. Guimarães, Ricardo Ferreira Guimarães_
 
-Computer Scientist
+## Technical Interests
 
-Postdoctoral Research Fellow at the University of Bergen
-
-## Research Interests
-
-- Knowledge Representation:
-    - Description Logics
-    - Knowledge Graphs
-    - Belief Change
-    - Ontology Modularity
-    - Ontology Learning
-
-- Other Topics in Artificial Intelligence:
-    - Combination of Symbolic and Subsymbolic AI
-    - Representation Learning
-    - Explainable AI
-
-- Other Topics in Computer Science:
-    - Graph Algorithms
-    - Computability
-    - Computational Complexity
+- Knowledge Representation 
+- Free and Open-Source Software
+- Combination of Symbolic and Subsymbolic AI
+- Reproducible Builds
+- Representation Learning
+- Graph Algorithms
 
 ## Other Interests
 
@@ -40,12 +26,10 @@ Postdoctoral Research Fellow at the University of Bergen
 - Natural Sciences
 - Psychology and Sociology
 - Fantasy and Science-Fiction
-- Free and Open-Source Software
 
 ## External Links
 
+- [LinkedIn](https://www.linkedin.com/in/rfguimaraes/)
 - [DBLP](https://dblp.uni-trier.de/pid/205/3609.html)
 - [ORCID](https://orcid.org/0000-0002-9622-4142)
-- [LinkedIn](https://www.linkedin.com/in/rfguimaraes/)
-- [Page @ UiB](https://www.uib.no/en/persons/Ricardo.Guimaraes)
 - [Goodreads Profile](https://www.goodreads.com/rfguimaraes)

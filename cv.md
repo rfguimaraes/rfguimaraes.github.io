@@ -6,7 +6,7 @@ description: Ricardo Guimarães' CV
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
-  lastmod: '2023-04-26'
+  lastmod: '2023-08-19'
 sidebar_sort_order: 1
 ---
 
@@ -17,7 +17,7 @@ sidebar_sort_order: 1
 ## Experience
 
 **Postdoctoral Research Fellow - University of Bergen**
-(12/2020 - Present)
+(12/2020 - 08/2023)
 
 - Published results on high-quality venues on Artificial Intelligence.
 - Communicated results on international workshops.
@@ -171,4 +171,4 @@ Protégé, Data Science ([IBM Specialization](https://www.coursera.org/account/a
 - Learning and Reasoning with Knowledge Graphs and Ontologies. [CEDAS Networking Event 2022](https://web.archive.org/web/20221022003238/http://www.uib.no/en/cedas/154942/cedas-networking-event-2022#)
 
 ----------------------------------------------------------------------
-[Download PDF](cv.pdf)
+<!-- [Download PDF](cv.pdf) -->
