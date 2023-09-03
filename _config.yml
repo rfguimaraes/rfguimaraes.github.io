@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Ricardo Guimarães
-tagline:          'Computer Scientist in KR and AI'
+tagline:          'Computer Scientist'
 description:      'Computer Scientist'
 url:              https://rfguimaraes.github.io
 baseurl:          '/'
