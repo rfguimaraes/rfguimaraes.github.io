@@ -9,5 +9,4 @@ sitemap:
   lastmod: '2023-08-19'
 sidebar_sort_order: 5
 ---
-<!-- My email is: ```<first name> dot <last name> at "uib" dot "no"``` -->
 Check my contact information on [LinkedIn](https://www.linkedin.com/in/rfguimaraes/)

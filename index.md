@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Home
-description: Ricardo Guimarães
+description: Ricardo Guimarães, Software Developer, PhD in Computer Science
 sitemap:
   priority: 0.9
   changefreq: 'yearly'
-  lastmod: '2023-08-19' 
+  lastmod: '2023-09-11' 
 ---
 
 _aka Ricardo F. Guimarães, Ricardo Ferreira Guimarães_
