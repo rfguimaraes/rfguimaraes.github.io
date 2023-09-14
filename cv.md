@@ -6,7 +6,7 @@ description: Ricardo Guimarães' CV
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
-  lastmod: '2023-08-19'
+  lastmod: '2023-09-11'
 sidebar_sort_order: 1
 ---
 
@@ -15,6 +15,9 @@ sidebar_sort_order: 1
 
 ----------------------------------------------------------------------
 ## Experience
+
+**Software Engineer - Zivid**
+(09/2023 - Present)
 
 **Postdoctoral Research Fellow - University of Bergen**
 (12/2020 - 08/2023)
