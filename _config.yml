@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Ricardo Guimarães
-tagline:          'Computer Scientist'
-description:      'Computer Scientist'
+tagline:          'Platform Engineer / Computer Scientist'
+description:      'Platform Engineer / Computer Scientist'
 url:              https://rfguimaraes.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
