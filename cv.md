@@ -6,7 +6,7 @@ description: Ricardo Guimarães' CV
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
-  lastmod: '2023-09-11'
+  lastmod: '2024-04-01'
 sidebar_sort_order: 1
 ---
 
@@ -63,7 +63,30 @@ sidebar_sort_order: 1
 - Supervisor: Prof. Dr. Renata Wassermann
 
 ----------------------------------------------------------------------
+## Skills
+
+- Hard Skills: Ansible, High Availability, Proxmox, CI/CD, Github, Python, Java, C, SQL, GNU/Linux, Git, LaTeX, Knowledge Graphs, Ontologies, OWL, RDF, SPARQL,
+Protégé, Data Science ([IBM Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V45HAAHQS4AE)), Extreme Programming (Agile).
+
+- Soft Skills: Problem-solving, Troubleshooting, Adaptability, Time Management, Scientific Method/Research, Academic Writing
+
+- Languages: English (proficient), Norwegian (basic), Portuguese (native)
+
+----------------------------------------------------------------------
+## Code
+
+- [GitLab.com](https://gitlab.com/rfguimaraes)
+- [GitLab@UiB](https://git.app.uib.no/Ricardo.Guimaraes)
+- [Github](https://github.com/rfguimaraes)
+
+
+----------------------------------------------------------------------
 ## Publications and Papers
+
+- 2024:
+    - Victor Lacerda, Ana Ozaki, Ricardo Guimarães: [Strong Faithfulness for ELH Ontology Embeddings](https://doi.org/10.4230/TGDK.2.3.2). TGDK 2024
+    - Camille Bourgaux, Ricardo Guimarães, Raoul Koudijs, Victor Lacerda, Ana Ozaki: [Knowledge Base Embeddings: Semantics and Theoretical Properties](https://doi.org/10.24963/kr.2024/77). KR 2024
+    - Victor Lacerda, Ana Ozaki, Ricardo Guimarães: [FaithEL: Strongly TBox Faithful Knowledge Base Embeddings for EL](https://doi.org/10.1007/978-3-031-72407-7_14). RuleML+RR 2024
 
 - 2023:
     - Ricardo Guimarães, Ana Ozaki, Cosimo Persia, Baris Sertkaya: [Mining EL Bases with Adaptable Role Depth](https://doi.org/10.1613/jair.1.13777). JAIR 2023
@@ -124,7 +147,7 @@ sidebar_sort_order: 1
 | Type   | Ongoing | Completed | As Main Supervisor |
 |--------|---------|-----------|--------------------|
 | PhD    |       1 |         1 |                  0 |
-| Master |       1 |         1 |                  0 |
+| Master |       0 |         2 |                  0 |
 
 ----------------------------------------------------------------------
 ## Other Notable Roles
@@ -148,24 +171,6 @@ sidebar_sort_order: 1
 - **FAPESP Grant**: 76477.47 BRL, Research Internship Abroad (04/2018 - 01/2019)
 - **FAPESP Scholarship**: 91056.42 BRL (08/2017 - 01/2020)
 - **CAPES Scholarship**: 49800.00 BRL (03/2015 - 07/2017)
-
-----------------------------------------------------------------------
-## Skills
-
-- Hard Skills: Python, Java, C, SQL, GNU/Linux, Git, LaTeX, Knowledge Graphs, Ontologies, OWL, RDF, SPARQL,
-Protégé, Data Science ([IBM Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V45HAAHQS4AE)), Extreme Programming (Agile).
-
-- Soft Skills: Problem-solving, Adaptability, Time Management, Scientific Method/Research, Academic Writing
-
-- Languages: English (proficient), Norwegian (basic), Portuguese (native)
-
-----------------------------------------------------------------------
-## Code
-
-- [GitLab.com](https://gitlab.com/rfguimaraes)
-- [GitLab@UiB](https://git.app.uib.no/Ricardo.Guimaraes)
-- [Github](https://github.com/rfguimaraes)
-
 
 ----------------------------------------------------------------------
 ## Invited Talks
